@@ -22,3 +22,4 @@ to allow monitoring and troubleshooting through a user-friendly GUI.
    * Create, View, Edit, Delete Tasks.
    * Viewing task status (Done, Pending, In Progress).
    * Automatic assigning task to nearest idle robot to task starting node.
+5. Integrating ROS with Applications.
