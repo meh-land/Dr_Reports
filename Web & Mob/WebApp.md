@@ -28,8 +28,8 @@
 > Defined types and clear categories for variable declarations not only improve readability, but the stability of the code overall.
 
 
-## Done Features:
-### 1.  **Membership [Registeration / Login]:**
+### Done Features:
+#### 1.  **Membership [Registeration / Login]:**
   ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/9f321577-600d-4ae2-9b02-166456ab0269)
 ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/6120d821-154b-4768-958a-da9849f1e850)
 
@@ -38,7 +38,7 @@
 >  ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/124af93b-cfed-4d16-88f5-5a7140791619)
 
 
-### 2. **User Profile:**
+#### 2. **User Profile:**
    ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/6f90dd14-6dbb-417c-83a9-b5fc38d55b93)
    ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/23669768-9f21-4dee-91fe-298c1ded847b)
    ![image](https://github.com/meh-land/Dr_Reports/assets/79084467/7bce86f2-d8a0-477d-b3d4-46ea877fd790)
