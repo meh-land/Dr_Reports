@@ -1,15 +1,14 @@
-Progress Update
-17/12/2023
+## Localization
 
-# Introduction:
+### Introduction:
 During the last sprint, the task of researching available localization methods emerged.
 After checking available resources one interesting way was using ultrasonic waves to implement a GPS-inspired localization.
 
-# What was done:
+### What was done:
 - Matlab audible communication was implemented and tested by recording on the phone then decoding on Matlab (SNR wasn't good enough)
 - Ultrasonic wave generation using an avr-based controller
 
-# What to do:
+### What to do:
 - Ultrasonic receiver using an arm-based controller to verify sender frequencies
 - Implement the communication protocol over ultrasound and amplify the sender till the receiver can understand the data
 - Use time division multiplexing between senders and unique signatures to determine TOF hence the distance between each beacon
