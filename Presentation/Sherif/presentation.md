@@ -33,6 +33,9 @@ The recorded data is sent to the SBC for processing.
 * Receives commands from the SBC to control 4 independent DC motors, each one driving an omni-directional wheel.
 * Each motor has a built-in magnetic rotary encoder, whose signal is processed by the on-board controller and sent to the SBC for recording travelled distance.
 
+### D - Actuators' Board:
+* Capable of controlling up to 10 servo motors independently.
+
 ### E - Battery Management System:
 * Protection Features:
 	1. Overvoltage
