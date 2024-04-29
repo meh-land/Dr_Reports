@@ -33,7 +33,7 @@ The recorded data is sent to the SBC for processing.
 * Receives commands from the SBC to control 4 independent DC motors, each one driving an omni-directional wheel.
 * Each motor has a built-in magnetic rotary encoder, whose signal is processed by the on-board controller and sent to the SBC for recording travelled distance.
 
-## E - Battery Management System:
+### E - Battery Management System:
 * Protection Features:
 	1. Overvoltage
 	2. Undervoltage
@@ -43,13 +43,13 @@ The recorded data is sent to the SBC for processing.
 	1. Voltage of each module.
 	2. Total Current of the pack
 	3. Temperature.
-## F - VLC [Receiver]:
+### F - VLC [Receiver]:
 * Uses BPW34 Micro solar cell for Detection.
 * Structure:
 	1. Transimpedance Amplifier.
 	2. Voltage Amplifier.
 	3. Decision making.
-## G - VLC [Transmitter]:
+### G - VLC [Transmitter]:
 * A code is assigned to each region.
 * Each transmitter sends said code by controlling a 220VAC LED.
 * Each Bit corresponds to a certain intensity to be detected by the receiver.
