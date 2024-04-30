@@ -25,7 +25,7 @@ The main goals of the robot infrastructure is for the robot to be able to:
 
 ### B - Sensor Board:
 Provides feedback regarding robot position using:
-1. IMU
+1. IMU : MPU6050
 2. Ultrasonic sensors for (For obstacle avoidance).
 The recorded data is sent to the SBC for processing.
 
@@ -56,3 +56,13 @@ The recorded data is sent to the SBC for processing.
 * A code is assigned to each region.
 * Each transmitter sends said code by controlling a 220VAC LED.
 * Each Bit corresponds to a certain intensity to be detected by the receiver.
+
+
+## Images:
+![Overall_Block_Diagram](https://github.com/meh-land/Dr_Reports/assets/93788514/64f159fb-e910-4954-b8a0-c9498935b370)
+![BPW34 Light Sensor (VLC Receiver)](https://github.com/meh-land/Dr_Reports/assets/93788514/0047d68e-7e48-4e5f-8dfa-95b1a3795d08)
+![MPU_6050 (Sensor)](https://github.com/meh-land/Dr_Reports/assets/93788514/6dae199f-0dc0-43ba-b974-01c0cda4055d)
+![DC Motor with Magnetic Encoder (Motion)](https://github.com/meh-land/Dr_Reports/assets/93788514/d242dec3-982e-48e1-9e79-91760286c1df)
+![Servo Motor(Actuators)](https://github.com/meh-land/Dr_Reports/assets/93788514/2cd571ee-818a-4d4b-88f4-140d0f84d8dd)
+
+
