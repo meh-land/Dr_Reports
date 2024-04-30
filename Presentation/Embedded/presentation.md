@@ -5,6 +5,8 @@ The aim of using the meccanum wheels is to :-
 - Enable omnidirectional movement that allows the robot to move in any direction.
 - Increase efficiency by eliminating the need for complicated steering mechanisms or additional hardware.
 
+![](meca.png)
+
 ## Sensors:
 1. *Ultrasonic:*
    - For specifying the actual position in the room by using multiple transmitter-receiver pairs positioned at known locations within the room, the system can employ techniques such as triangulation to determine the precise position of objects within the space. This is achieved by comparing the time-of-flight measurements from multiple pairs of transmitters and receivers.
